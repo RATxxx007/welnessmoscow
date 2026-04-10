@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
         labels: ["2024 (факт)", "2025 (факт)", "Сценарий роста"],
         datasets: [
           {
-            label: "Центры",
+            label: "Центр",
             data: [7.96, 10.95, 25.0],
             backgroundColor: "#191b22",
             borderRadius: 8,
