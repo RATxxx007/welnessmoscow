@@ -72,14 +72,14 @@ document.addEventListener("DOMContentLoaded", () => {
         datasets: [
           {
             label: "Центр",
-            data: [7.96, 10.95, 25.0],
+            data: [8.2, 10.95, 19.4],
             backgroundColor: "#191b22",
             borderRadius: 8,
             stack: "combined",
           },
           {
             label: "Школа",
-            data: [0.0, 4.6, 13.44],
+            data: [0.0, 4.6, 10.4],
             backgroundColor: "#8f6a43",
             borderRadius: 8,
             stack: "combined",
